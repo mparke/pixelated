@@ -1,2 +1,4 @@
-# pixelated
-A path generation experiment
+pixelated
+=========
+
+(2013) random path generating experiment

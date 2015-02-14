@@ -1,0 +1,54 @@
+html, body{
+	height: 100%;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+p{
+	font-family: consolas, arial, sans-serif;
+	font-size: 14px;
+}
+.top{
+	text-align: left;
+	height: 38px;
+	border-bottom:solid;
+	border-width: 1px;
+	background-color: #F5F5F5;
+}
+.gameWrap{
+	height: 650px;
+	width: 100%;
+	border: solid;
+}
+.gameWrap div{
+	position:relative;
+	float:left;
+	text-align: left;
+}
+.game
+{
+	height: 600px;
+	margin-left:1%;
+	margin-top: 1%;
+	padding: 10px 10px 10px 10px;
+	border: solid;
+	border-width: 1px;
+	border-radius: 2px;
+	background-color: #FFFFFF;
+}
+.actions{
+	width: 200px;
+	height: 600px;
+	margin-top: 1%;
+	margin-left: 1%;
+	border: dotted;
+}
+.message{
+	height: 75px;
+	margin-left: 1%;
+	margin-right: 20%;
+	border: dotted;
+}
