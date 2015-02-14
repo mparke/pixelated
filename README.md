@@ -1,4 +1,4 @@
 pixelated
 =========
 
-(early 2013) random path generating experiment
+(early 2011) random path generating experiment
